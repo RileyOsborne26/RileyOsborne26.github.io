@@ -31,20 +31,25 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [How to Deal with Ad Blockers](/pdf/CSCI235_RWOsborne_EthicsPaper.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class: CSCI 235 Procedural Programming**  
+-   **Grade: ??A??**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Intellectual Property](/pdf/CSCI301_RWOsborne_EthicsPaper.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 301 Survey Of Scripting Languages** 
+-   **Grade: ??A??**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [THERAC-25](/pdf/CSCI315_RWOsborne_EthicsPaper.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 315 Data Structure Analysis** 
+-   **Grade: ??A??**
+
+### [Data Breaches](/pdf/CSCI325_RWOsborne_EthicsPaper.pdf)
+
+-   **Class: CSCI 325 Object Oriented Programming** 
+-   **Grade: ??A??**
 
 ---
 
