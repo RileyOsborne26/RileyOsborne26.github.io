@@ -61,16 +61,22 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [Data Breach Presentation](/pdf/CSCI301_Data_Breach_Presentation_RWOsborne.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class: CSCI 301 Survey of Scripting Languages** 
+- **Grade: A**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [Account Manager Project](https://youtu.be/AyVZVRDA7cY)
 
-- **Class:** 
-- **Grade:**
+- **Class: CSCI 325 Object Oriented Programming** 
+- **Grade: A**
+
+
+### [Team Project Software Training Video Presentation](https://youtu.be/g3Dkl3ZD6rs)
+
+- **Class: CSCI 495 System Analysis and Software Design** 
+- **Grade: B**
 
 ---
 
