@@ -51,6 +51,11 @@ Ethics Papers
 -   **Class: CSCI 325 Object Oriented Programming** 
 -   **Grade: ??A??**
 
+### [Memes](/pdf/CSCI330_RWOsborne_EthicsPaper.pdf)
+
+-   **Class: CSCI 330 Computer Architecture** 
+-   **Grade: ??A??**
+
 ---
 
 Presentations
