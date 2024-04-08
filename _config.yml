@@ -1,11 +1,10 @@
 # Site settings
 # These are used to personalize your new site.
 title: Riley W. Osborne
-logo: "/images/portfolio_pic.jpg?raw=true" # your photo (or logo) here
+logo: "/images/portfolio_pic1.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br /> elements if you don't need line breaks)
   CSCI 496: Senior Portfolio<br />
-  In partial fulfillment of the requirements for the degree of
-  Bachelor of Science in Computer-Science with a Mathematics Minor (class of 2025)
+  degree of Bachelor of Science in Computer-Science with a Mathematics Minor (class of 2025)
   <br /><br />
   <a href="https://app.joinhandshake.com/stu/users/33316167">View My Resume</a>
   <br /><br />
