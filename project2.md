@@ -11,39 +11,76 @@ Data Structures Project 3: Minimum Overlap Coverage
 
 ## Project description
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This project uses an algorithm and datastructure which are set up to find the least number of elements to cover a given subset which I feed the program. The /data folder contains multiple dataset files, each file containing multiple subsets to test my subset parameter for the progam. So if I run 
+```bash
+make run simple
+```
+then one of the subsets that will be tested is "0 3 6".
+
+These are the subsets listed in the "/data/simple.set" dataset:
+```bash
+0 2 5
+0 2 3
+1
+2 3 6
+1 4 3
+5 6
+```
+In order to find the minimum overlap required to cover all the elements inside subset "0 3 6". Using ONLY the subsets listed in the simple.set data file, the program will combine them until it has found and created the smallest possible subset that meets our conditions of including elements "0 3 6". Looking at our subset above, the program would be able to recognize that all the following subsets combinations are examples of valid solutions:
+```bash
+0 2 5 0 2 3 2 3 6
+0 2 3 2 3 6
+0 2 5 2 3 6
+0 2 5 1 4 3 2 3 6
+0 2 5 1 4 3 5 6
+0 2 5 5 6
+0 2 3 5 6
+etc...
+```
+The program will compute and recognize that the valid subset with the least amount of elements is 5 and will output that number under the "Minimum # of Els" column.
+
+The intent of the project is to use the most efficient combination of datastructures and logic possible. This means getting as small of a time as possible to find the smallest subset match and to be able to do so for incredibly complex examples.
 
 ## How to compile and run the program
 
 How to compile (if applicable) and run the project.
-Make sure to clone the repository. 
+Make sure to clone the repository and navigate to your chosen workfolder. 
+Inside your workfolder run "cd project3". The Pdf talks about the project and 
+the makefile showns you the program running options.
 
+Makefile run options:
 ```bash
-cd ./project
-python setup.py
+make run small30
+make run med30
+make run large30
+make run large50
+make run small100
+make run small-timings
+make run medium-timings
+make run large30-timings
+make run large-timings
 ```
-
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
 
 ## UI Design
 
-Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.
+It is run straight from the command line. The figures below are sample results for all four of the sample types: simple dataset (see Fig 1), small dataset (see Fig 2), medium dataset (see Fig 3), and large dataset (see Fig 4).
 
-Lorem ipsum dolor sit amet (see Fig 1), consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat (see Fig 2). Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum (see Fig 3).
+![screenshot](images/project2/project2_simple.png)  
+Fig 1. Example output for the simple dataset
 
-![screenshot](images/project2/dummy_thumbnail.jpg)  
-Fig 1. The launch screen
+![screenshot](images/project2/project2_small30.png)  
+Fig 2. Example output for the small30 dataset
 
-![screenshot](images/project2/dummy_thumbnail.jpg)  
-Fig 2. Example output after input is processed.
+![screenshot](images/project2/project2_medium30.png)  
+Fig 3. Example output for the medium30 dataset
 
-![screenshot](images/project2/dummy_thumbnail.jpg)  
-Fig 3. Feedback when an error occurs.
+![screenshot](images/project2/project2_large30.png)  
+Fig 4. Example output for the large 30 dataset
 
 ## 3. Additional Considerations
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+It is important to note that the small, medium, and large datasets are much more complex for the computer to handle, and in order to be efficient, the Big-O much be small enough to handle big testing subsets and/or dataset files with more subsets listed. This is what the number in the setfiles means. "small30.set" contains 30 small subsets while "small100.set" contains 100 small subsets. The size (small, medium, large) indicates how big the subsets are. If the program can not find a match for the testing subset then it will return "DNE" (does not exist). 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+When I did this project, the instructions pdf gave examples for what times would be considered good enough for certain grades. I used a vector of vectors and initially, no matter what I tried to improve speed I could only get my top speed to 30 TIMES slower than needed for the 60% credit solution time given by Dr. Hayes. It turns out that the issue was my computer and when Dr. Hayes ran it, it was much faster and my solution ended up being worth 110%. 
 
 [Back to Portfolio](./)
