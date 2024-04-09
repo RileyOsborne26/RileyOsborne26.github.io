@@ -9,7 +9,7 @@ Programming Projects
 ---
 ### [Pedigree Recreation Software Project | CSCI 495](project1)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 1 Thumbnail Name](images/project1/Project1_thumbnail.PNG)
 
 ---
 ### [Project 2 Title | CSCI 315](project1)
