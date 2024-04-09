@@ -22,7 +22,7 @@ Make sure your requirements listed in  are met and the repository is cloned into
 cd /home/<username>/<project folder>/
 /usr/bin/python /home/<username>/<project folder>/Pedigree_Recreation/main.py
 ```
-replace "<username>" with your user directory and "<project folder>" with the work directory name you chose.
+replace "username" with your user directory and "project folder" with the work directory name you chose.
 
 For best demonstration results, choose the "/XMLFilesForTest/og 999b120 HL7 2023-11-16-1609.xml" file, which has the most pedigree recreation options.
 
