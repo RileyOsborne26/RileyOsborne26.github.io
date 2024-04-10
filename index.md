@@ -12,19 +12,19 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/project1/Project1_thumbnail.PNG)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [Minimum Overlap Coverage | CSCI 315](project1)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/project2/project2_thumbnail.png)
 
 ---
 ### [Project 3 Title | CSCI 325](project1)
 
-![Project 3 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/project3/dummy_thumbnail.jpg)
 
 ---
 ### [Project 4 Title | CSCI 332](project1)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/project4/dummy_thumbnail.jpg)
 
 ---
 

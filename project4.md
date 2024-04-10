@@ -3,10 +3,10 @@
 Project 1 Title
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Class: CSCI 419 Database Management** 
+-   **Grade: ??B??** 
+-   **Language(s): ** 
+-   **Source Code Repository: This project does not have github source code as it was an oracle database application. For the link to the site login** click here [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
     (Please [email me](mailto:rwosborne@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
