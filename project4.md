@@ -24,10 +24,14 @@ Fig 2. Secondary stats overview from in-game
 Click the link at the top of the page under "source code repository" to be directed to the Oracle log in screen. 
 The workspace name will be "US_A873_PLSQL_S12" and please contact me for the username and password.
 Once you have logged in with your credentials:
-    Click the App Builder
-    Click the "SWGOH - Statistical Analysis" app #12375
-    Click run application
-    Use the same username and password to log into the app
+
+Click the App Builder
+
+Click the "SWGOH - Statistical Analysis" app #12375
+
+Click run application
+
+Use the same username and password to log into the app
 
 You are now in the app!
 
@@ -62,7 +66,5 @@ Fig 1. Project Entity Relationship Diagram (ERD)
 
 ![screenshot](images/project4/project4_object_browser.png)  
 Fig 2. SWGOH_Secondary_Stat table structure view from the Object Brower.
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 [Back to Portfolio](./)
