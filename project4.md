@@ -4,7 +4,7 @@ SWGOH User Profile Database
 ===============
 
 -   **Class: CSCI 419 Database Management** 
--   **Grade: ??B??** 
+-   **Grade: B** 
 -   **Language(s): Oracle SQL** 
 -   **Source Code Repository: This project does not have github source code as it was an oracle database application. For the link to the site login** [click here](https://iacademy2.oracle.com/ords/f?p=4550:1:573426648849:::::)  
     (Please [email me](mailto:rwosborne@csustudent.net?subject=GitHub%20Access) to request access credentials!)

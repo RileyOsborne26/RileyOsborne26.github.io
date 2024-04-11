@@ -4,7 +4,7 @@ Pedigree Recreation Software Project
 ===============
 
 -   **Class: CSCI 495 System Analysis and Software Design** 
--   **Grade: B** 
+-   **Grade: 90 (B)** 
 -   **Language(s): Python** 
 -   **Source Code Repository:** [click here](https://github.com/RileyOsborne26/Pedigree_Recreation)  
     (Please [email me](mailto:rwosborne@csustudent.net?subject=GitHub%20Access) with questions.)

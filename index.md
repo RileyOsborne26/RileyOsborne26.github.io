@@ -19,10 +19,10 @@ Programming Projects
 ---
 ### [Account Manager | CSCI 325](project3)
 
-![Project 3 Thumbnail Name](images/project3/dummy_thumbnail.jpg)
+![Project 3 Thumbnail Name](images/project3/project3_financial_report.PNG)
 
 ---
-### [Project 4 Title | CSCI 419](project4)
+### [SWGOH User Profile Database | CSCI 419](project4)
 
 ![Project 4 Thumbnail Name](images/project4/project4_app_welcome.png)
 
@@ -34,27 +34,27 @@ Ethics Papers
 ### [How to Deal with Ad Blockers](/pdf/CSCI235_RWOsborne_EthicsPaper.pdf)
 
 -   **Class: CSCI 235 Procedural Programming**  
--   **Grade: ??A??**
+-   **Grade: A**
 
 ### [Intellectual Property](/pdf/CSCI301_RWOsborne_EthicsPaper.pdf)
 
 -   **Class: CSCI 301 Survey Of Scripting Languages** 
--   **Grade: ??A??**
+-   **Grade: A**
 
 ### [THERAC-25](/pdf/CSCI315_RWOsborne_EthicsPaper.pdf)
 
 -   **Class: CSCI 315 Data Structure Analysis** 
--   **Grade: ??A??**
+-   **Grade: A**
 
 ### [Data Breaches](/pdf/CSCI325_RWOsborne_EthicsPaper.pdf)
 
 -   **Class: CSCI 325 Object Oriented Programming** 
--   **Grade: ??A??**
+-   **Grade: 100 (A)**
 
 ### [Memes](/pdf/CSCI330_RWOsborne_EthicsPaper.pdf)
 
 -   **Class: CSCI 330 Computer Architecture** 
--   **Grade: ??A??**
+-   **Grade: A**
 
 ---
 
@@ -70,13 +70,13 @@ Presentations
 ### [Account Manager Project](https://youtu.be/AyVZVRDA7cY)
 
 - **Class: CSCI 325 Object Oriented Programming** 
-- **Grade: A**
+- **Grade: 100 (A)**
 
 
 ### [Team Project Software Training Video Presentation](https://youtu.be/g3Dkl3ZD6rs)
 
 - **Class: CSCI 495 System Analysis and Software Design** 
-- **Grade: B**
+- **Grade: 90 (A)**
 
 ---
 
