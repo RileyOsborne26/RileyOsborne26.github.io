@@ -80,7 +80,8 @@ Presentations
 
 ### [Senior Project Presentation - 12/4/24](https://youtu.be/i1WcyzbJpyM?si=FUvWUYnUBiE7ICd5)
 - **Class: CSCI 499 Project Implementation and Defense**
-- **Grade Pass/Fail: Pass** 
+- **Grade Pass/Fail: Pass**
+ 
 ---
 
 <p style="font-size:11px">Page template forked from <a href="https://github.com/csu-cs/csci-portfolio">CSU-CS</a></p>
